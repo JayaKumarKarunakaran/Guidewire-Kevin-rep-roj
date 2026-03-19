@@ -113,6 +113,13 @@ Example:
 
  Claim automatically triggered
 
+```
+Rainfall > 40mm  
+Orders drop by 40%  
+Worker active hours drop by 30%  
+ 
+→ Claim automatically triggered
+```
 ---
 
 ## Weekly Pricing Model
