@@ -138,15 +138,15 @@ Dynamic pricing based on:
 Payout is based on **actual income loss**, not fixed values.
 
 ### Formula:
-'''
+```
 Payout = % of average daily earnings lost
-'''
+```
 ### Example:
-'''
+```
 - Avg earning = ₹600/day  
 - Loss detected = 50%  
 👉 Payout = ₹300  
-'''
+  ```
 ---
 
 ##  AI/ML Components
