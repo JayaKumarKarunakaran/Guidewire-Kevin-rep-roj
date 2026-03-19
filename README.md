@@ -68,7 +68,7 @@ EDI is calculated using:
 ---
 
 ## System Workflow
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/58c90362-b933-44b0-b049-17f3a074e4d2" />
+
 1. User registers on platform
 2. System tracks:
    - Location
@@ -86,6 +86,7 @@ EDI is calculated using:
 6. Instant payout is processed
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/58c90362-b933-44b0-b049-17f3a074e4d2" />
 
 ## Target Persona
 
