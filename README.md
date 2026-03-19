@@ -2,7 +2,7 @@
 
 # NammaCover: Hyperlocal Income Protection for Gig Workers
 
-## 🚀 Overview
+## Overview
 
 Ravi is a Swiggy delivery partner in Chennai. On a normal day, he earns around ₹600.  
 But during heavy rains or extreme weather, his earnings drop drastically — sometimes by 40–60%.  
@@ -16,15 +16,15 @@ Today, there is no system that protects gig workers from this **partial income l
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Gig workers in India face income instability due to:
 
-- 🌧️ Heavy rain and flooding
-- ☀️ Extreme heat
-- 😷 Air pollution
-- 🚧 Traffic congestion
-- 🚫 Sudden curfews or local restrictions
+- Heavy rain and flooding
+- Extreme heat
+- Air pollution
+- Traffic congestion
+- Sudden curfews or local restrictions
 
 These disruptions do not always stop work completely but reduce:
 - Number of orders
@@ -35,22 +35,22 @@ These disruptions do not always stop work completely but reduce:
 
 ---
 
-## 💡 Our Solution
+## Our Solution
 
 NammaCover provides:
 
-- 📊 AI-based risk assessment
-- 💰 Weekly subscription-based insurance
-- ⚡ Automatic claim detection
-- 💳 Instant payout for income loss
+- AI-based risk assessment
+- Weekly subscription-based insurance
+- Automatic claim detection
+- Instant payout for income loss
 
 Instead of insuring events, we insure **actual income reduction**.
 
 ---
 
-## 🔥 Key Innovation
+## Key Innovation
 
-### 🧠 Earning Drop Index (EDI)
+### Earning Drop Index (EDI)
 
 We introduce a new concept:
 
@@ -67,7 +67,7 @@ EDI is calculated using:
 ---
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/58c90362-b933-44b0-b049-17f3a074e4d2" />
 
-## 🧩 System Workflow
+## System Workflow
 
 1. User registers on platform
 2. System tracks:
@@ -87,7 +87,7 @@ EDI is calculated using:
 
 ---
 
-## 👤 Target Persona
+## Target Persona
 
 - Food delivery partners (Swiggy, Zomato)
 - Location: Chennai (initial focus)
@@ -96,7 +96,7 @@ EDI is calculated using:
 
 ---
 
-## ⚙️ Parametric Triggers
+##  Parametric Triggers
 
 Claims are triggered when:
 
@@ -110,17 +110,17 @@ Example:
 - Orders drop by 40%  
 - Worker active hours drop by 30%  
 
-👉 Claim automatically triggered
+ Claim automatically triggered
 
 ---
 
-## 💰 Weekly Pricing Model
+## Weekly Pricing Model
 
 Dynamic pricing based on:
 
-- 📍 Area risk level (flood-prone zones)
-- 📊 Historical disruption data
-- 👤 Worker profile
+- Area risk level (flood-prone zones)
+- Historical disruption data
+-  Worker profile
 
 ### Example:
 
@@ -132,7 +132,7 @@ Dynamic pricing based on:
 
 ---
 
-## 💳 Payout Model
+## Payout Model
 
 Payout is based on **actual income loss**, not fixed values.
 
@@ -148,7 +148,7 @@ Payout = % of average daily earnings lost
 
 ---
 
-## 🤖 AI/ML Components
+##  AI/ML Components
 
 ### 1. Risk Prediction Model
 - Predicts high-risk days using:
@@ -180,23 +180,23 @@ Real-world fraud scenarios handled:
 
 ---
 
-## 🔗 Integration Capabilities
+##  Integration Capabilities
 
-- 🌦️ Weather APIs (OpenWeather / mock)
-- 🚦 Traffic data (Google Maps API / mock)
-- 📦 Platform simulation APIs
-- 💳 Payment gateway (Razorpay test mode / UPI simulation)
+-  Weather APIs (OpenWeather / mock)
+- Traffic data (Google Maps API / mock)
+- Platform simulation APIs
+- Payment gateway (Razorpay test mode / UPI simulation)
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
-### 👤 Worker Dashboard
+### Worker Dashboard
 - Weekly coverage status
 - Earnings protected
 - Risk alerts
 
-### 🏢 Admin Dashboard
+### Admin Dashboard
 - Fraud alerts
 - High-risk zones
 - Claim analytics
@@ -204,20 +204,20 @@ Real-world fraud scenarios handled:
 
 ---
 
-## 🌍 Real-World Enhancements
+## Real-World Enhancements
 
-### 🔔 Smart Alerts
+### Smart Alerts
 - Notify workers about upcoming disruptions  
   Example: “Heavy rain expected today — consider early shifts”
 
 ---
 
-### 📶 Offline Support
+### Offline Support
 - Handles low network conditions with cached tracking
 
 ---
 
-### 🧾 Micro Coverage Options
+### Micro Coverage Options
 - Flexible plans:
   - Basic: ₹10/week
   - Standard: ₹30/week
@@ -225,7 +225,7 @@ Real-world fraud scenarios handled:
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React.js / Android (Kotlin)
@@ -245,7 +245,7 @@ Real-world fraud scenarios handled:
 - Payment Gateway (Sandbox)
 
 
-## 🚀 Future Scope
+## Future Scope
 
 - Expand to:
   - Amazon delivery partners
@@ -257,7 +257,7 @@ Real-world fraud scenarios handled:
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 NammaCover is not just an insurance product.  
 It is a **financial safety layer for gig workers**, designed around real-world conditions.
