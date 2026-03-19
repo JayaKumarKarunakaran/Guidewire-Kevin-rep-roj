@@ -66,10 +66,9 @@ EDI is calculated using:
 👉 Claims are triggered based on **actual earning impact**, not just rain.
 
 ---
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/58c90362-b933-44b0-b049-17f3a074e4d2" />
 
 ## System Workflow
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/58c90362-b933-44b0-b049-17f3a074e4d2" />
 1. User registers on platform
 2. System tracks:
    - Location
@@ -107,12 +106,6 @@ Claims are triggered when:
 
 Example:
 
-- Rainfall > 40mm  
-- Orders drop by 40%  
-- Worker active hours drop by 30%  
-
- Claim automatically triggered
-
 ```
 Rainfall > 40mm  
 Orders drop by 40%  
@@ -145,15 +138,15 @@ Dynamic pricing based on:
 Payout is based on **actual income loss**, not fixed values.
 
 ### Formula:
-
+'''
 Payout = % of average daily earnings lost
-
+'''
 ### Example:
-
+'''
 - Avg earning = ₹600/day  
 - Loss detected = 50%  
 👉 Payout = ₹300  
-
+'''
 ---
 
 ##  AI/ML Components
