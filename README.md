@@ -65,6 +65,7 @@ EDI is calculated using:
 👉 Claims are triggered based on **actual earning impact**, not just rain.
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/58c90362-b933-44b0-b049-17f3a074e4d2" />
 
 ## 🧩 System Workflow
 
