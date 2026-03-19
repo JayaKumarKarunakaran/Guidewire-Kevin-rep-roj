@@ -3,6 +3,7 @@
 # NammaCover: Hyperlocal Income Protection for Gig Workers
 
 ## Overview
+Persona's:
 
 Ravi is a Swiggy delivery partner in Chennai. On a normal day, he earns around ₹600.  
 But during heavy rains or extreme weather, his earnings drop drastically — sometimes by 40–60%.  
