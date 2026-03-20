@@ -3,7 +3,7 @@
 # NammaCover: Hyperlocal Income Protection for Gig Workers
 
 
-## 2min video like :https://drive.google.com/file/d/1xHtC9wtKZvWLRcDss-foT0rxJNW5kvEQ/view?usp=sharing 
+## 2min video link :https://drive.google.com/file/d/1xHtC9wtKZvWLRcDss-foT0rxJNW5kvEQ/view?usp=sharing 
 ## Overview
 Persona's:
 
