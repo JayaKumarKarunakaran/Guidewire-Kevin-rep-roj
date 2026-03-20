@@ -4,6 +4,8 @@
 
 
 ## 2min video link :https://drive.google.com/file/d/1xHtC9wtKZvWLRcDss-foT0rxJNW5kvEQ/view?usp=sharing 
+## 2min video link : https://youtu.be/uOo2hr5bUiE
+
 ## Overview
 Persona's:
 
